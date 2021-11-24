@@ -1,0 +1,14 @@
+.Heading{ color: white; font-Family: sans-serif; }
+
+p {
+    font-size:12pt;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nav{
+    background: transparent;
+}
+
+.Link{
+    color: white;
+}

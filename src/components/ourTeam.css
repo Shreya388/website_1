@@ -1,0 +1,23 @@
+.teamImg {
+    border-radius: 100pt;
+    height: 90pt;
+    width: 90pt;
+}
+
+.ourTeam {
+    padding-top: 190pt;
+    padding-bottom: 190pt;
+    background: rgb(148 41 229);
+    color: white;
+}
+
+.progress_sec{
+    padding-top: 200pt;
+    padding-bottom: 200pt;
+    background: rgb(44 44 44);
+    color: white;
+}
+
+.progBar {
+    background: #242424;
+}

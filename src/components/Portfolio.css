@@ -1,0 +1,12 @@
+.Portfolio{
+    padding-top: 200pt;
+    padding-bottom: 200pt;
+
+}
+
+.card_style{
+    background: #222222;
+    border: none;
+    color: white;
+    box-shadow: 1pt 1pt 6pt 1pt silver;
+}
